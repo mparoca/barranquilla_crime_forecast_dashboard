@@ -19,7 +19,7 @@ This repository contains the code for a crime forecasting [Shiny](https://shiny.
 
 ![2 explore](/assets/screenshot_explore_1.png)
 
-![3 explore](/assets/screenshot_explore_3.png)
+![3 explore](/assets/screenshot_explore_2.png)
 
 *Forecast with different Models*  
 
