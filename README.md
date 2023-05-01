@@ -1,3 +1,5 @@
+<a href="url"><img src="/www/forecast_baq.png" align="left" height="80" width="80" ></a>
+
 # Crime Forecasting Dashboard for the City of Barranquilla
 This repository contains the code for a crime forecasting [Shiny](https://shiny.rstudio.com/) dashboard that utilizes time series analysis to predict crime trends in the city of Barranquilla. The dashboard provides insights into criminal activity and enables law enforcement agencies to make data-driven decisions about crime prevention and response efforts.
 
