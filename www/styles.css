@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto+Condensed:wght@300&display=swap');
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.btn-social-icon>:first-child {
+    border: none;
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+
+@media (min-width: 768px) {
+    .sidebar-mini.sidebar-collapse .main-sidebar .sidebar .text-center .hide-sidebar-collapse {
+        display: none;
+    }
+}
+
+
+

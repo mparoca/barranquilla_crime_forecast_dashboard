@@ -1,0 +1,13 @@
+name: BAQ_CFD
+title: BAQ_CFD
+username:
+account: mariaaroca
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8996950
+bundleId: 7157442
+url: https://mariaaroca.shinyapps.io/BAQ_CFD/
+when: 1682905052.49507
+lastSyncTime: 1682905052.49508
+asMultiple: FALSE
+asStatic: FALSE
