@@ -11,14 +11,18 @@ This repository contains the code for a crime forecasting [Shiny](https://shiny.
 ## Live App
 [Barranquilla Crime Forecasting App](https://mariaaroca.shinyapps.io/BAQ_CFD/)
 
-## Getting Started
+## Acknowledgments
+[feasts](https://cran.r-project.org/web/packages/feasts/index.html) package was used for seasonal summaries and autocorrelation plots.
 
-### Prerequisties
+[anomalize](https://business-science.github.io/anomalize/) package was used for anomaly detection.
 
-### Installation
+[modeltime](https://business-science.github.io/modeltime/) and [parsnip](https://parsnip.tidymodels.org/index.html) were used for modeling.
 
+App was created using [shiny](https://shiny.rstudio.com/), and [shinydashboardPlus](https://rinterface.github.io/shinydashboardPlus/). 
 
-### Usage
+Theming was done with [fresh](https://github.com/dreamRs/fresh). Other components used: [shinybusy](https://github.com/dreamRs/shinybusy) and, [summaryBox](https://github.com/deepanshu88/summaryBox).
+
+Icons from [Font Awesome](https://fontawesome.com/v4/icons/).
 
 ## Contact
 
