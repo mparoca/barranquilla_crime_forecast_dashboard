@@ -1,5 +1,5 @@
 library(fresh)
-# create the theme with a cyberpunk color palette
+# create the theme with national police colors
 theme <- create_theme(
   adminlte_color(
     green = "#179C94",
