@@ -9,7 +9,7 @@ This repository contains the code for a crime forecasting [Shiny](https://shiny.
 - Crime data sourced from the [National Police of Colombia public database](https://www.policia.gov.co/grupo-informacion-criminalidad/estadistica-delictiva)
 
 ## Live App
-[Barranquilla Crime Forecasting App](https://mariaaroca.shinyapps.io/BAQ_CFD/)
+App is currently hosted on shinyapps.io here: [Barranquilla Crime Forecasting App](https://mariaaroca.shinyapps.io/BAQ_CFD/)
 
 *About*  
 
