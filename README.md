@@ -11,6 +11,23 @@ This repository contains the code for a crime forecasting [Shiny](https://shiny.
 ## Live App
 [Barranquilla Crime Forecasting App](https://mariaaroca.shinyapps.io/BAQ_CFD/)
 
+*About*  
+
+![1 about](/assets/screenshot_about.png)
+
+*Explore Time Series*  
+
+![2 explore](/assets/screenshot_explore_1.png)
+
+![3 explore](/assets/screenshot_explore_3.png)
+
+*Forecast with different Models*  
+
+![4 allmodels](/assets/screenshot_all_models.png)
+
+*Ensemble Forecast*
+![5 ensemble](/assets/screenshot_ensemble.png)
+
 ## Acknowledgments
 [feasts](https://cran.r-project.org/web/packages/feasts/index.html) package was used for seasonal summaries and autocorrelation plots.
 
